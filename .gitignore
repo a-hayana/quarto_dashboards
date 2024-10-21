@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+index.qmd
+_quarto.yml
+.Ruserdata
+quarto_dashboards.Rproj
+/.quarto/
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
